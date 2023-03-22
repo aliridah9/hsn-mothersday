@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    letter-spacing: 7px;
+}
+body{
+    margin:0;
+}
+div{
+    padding: 70px;
+}
+
+#inside{
+    background-color: blueviolet;}
+#outside{
+    background-color:brown;
+}
+.P1{
+    background-color: aqua;
+}
+.P2{
+    background-color: crimson;
+}
+.m1{
+background-color: brown;
+}
+.m2{
+    background-color: rebeccapurple;
+    }
+.m3{
+        background-color: papayawhip;
+        }
